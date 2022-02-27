@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Icon_05" transform="translate(886.008 464.001)">
+      <path id="Path_1" data-name="Path 1" d="M55.917,88.379s-5.426,5-2.759,20.832" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M25.825,127.713s5-47.667,28.667-42c0,0,5-6,9.666-7.334" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_3" data-name="Path 3" d="M55.917,84.155V94.379l6.241,2-4.666,6.666,17.666,23.668,14.667-25.668-3-3.666,5-8s13.667-6,10.667-34l-2.667-4.667s1.333-7-2.667-17c0,0-5-13-24.666-14.667,0,0-7.667,1.667-12.667,5,0,0-7.666,1-9.333,10.667,0,0-5.334,14.333-3.667,28,0,0,8.029,18.581,5.515,22.624" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_4" data-name="Path 4" d="M58.163,61.045c-5.742-2.045-6.671-10-6.671-10,10-4.333,9.333-21.333,9.333-21.333" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_5" data-name="Path 5" d="M91.708,49.079C90,60,87,76,73,75,61,74,55,60,56.163,47.875" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_6" data-name="Path 6" d="M60.834,30.712s10.1,9.667,13.879,10c0,0,15.445,4,17.112,8.667,0,0,8,7.667,2.333,22L82.492,82.045" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_7" data-name="Path 7" d="M64.158,71.119V85.378s9.787,28.319,5.894,34.493" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_8" data-name="Path 8" d="M83.316,71.119s-5.049,47.594-8.6,52.926" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_9" data-name="Path 9" d="M81.816,85.662s-17.658,3.383-17.658-.283" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10" data-name="Path 10" d="M98.494,85.683s3,14.362,0,15.7-10,.666-9.336,28.666c0,0,1.725,3,9.029,2.668" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_11" data-name="Path 11" d="M99.828,132.738s10.664,1.975,10.664-6.025l-1.319-15.668a19.968,19.968,0,0,0-9.345-10.332" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.212" cy="7.212" r="7.212" transform="translate(45.209 109.622)" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.658" cy="1.658" r="1.658" transform="translate(50.763 115.526)" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_12" data-name="Path 12" d="M96.188,85.773s22.637-4.394,25.971,41.94" fill="none" stroke="#002c3e" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

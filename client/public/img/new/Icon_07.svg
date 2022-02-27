@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Icon_07" transform="translate(861.167 428.292)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="34.752" cy="34.752" r="34.752" transform="translate(51.236 31.25)" fill="none" stroke="#0d374b" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_20" data-name="Path 20" d="M143.1,130.69c-14.223-21.1-37.85-23.4-37.85-23.4-8.258,5.046-19.269,5.735-19.269,5.735-11.24,1.606-21.333-5.735-21.333-5.735-3.1.688-19.612,6.538-19.612,6.538-22.71,8.946-22.366,34.752-22.366,34.752v18.581H114.9" fill="none" stroke="#0d374b" stroke-miterlimit="10" stroke-width="4"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="30.279" cy="30.279" r="30.279" transform="translate(114.433 131.609)" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_21" data-name="Path 21" d="M144.481,181.891a.276.276,0,0,1-.275-.276v-37.39a.275.275,0,1,1,.551,0v37.39A.275.275,0,0,1,144.481,181.891Z" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_22" data-name="Path 22" d="M162.718,163.2H125.329a.275.275,0,1,1,0-.55h37.389a.275.275,0,1,1,0,.55Z" fill="none" stroke="#16c7f7" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

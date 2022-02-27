@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292.72" height="211.58" viewBox="0 0 292.72 211.58">
+  <defs>
+    <clipPath id="clip-iPhone_12_Pro_Max_1">
+      <rect width="292.72" height="211.58"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_Pro_Max_1" data-name="iPhone 12 Pro Max – 1" clip-path="url(#clip-iPhone_12_Pro_Max_1)">
+    <rect width="292.72" height="211.58" fill="#fff"/>
+    <g id="Icon_03.a65da60a" transform="translate(-0.003)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="8.069" height="133.584" transform="translate(3.139 73.965)" fill="#002938"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="63.206" height="8.04" transform="translate(3.139 69.945)" fill="#002938"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="66.345" height="8.069" transform="translate(0 51.103)" fill="#3fc8c9"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="68.139" height="8.069" transform="translate(224.584 51.103)" fill="#3fc8c9"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="91.004" height="8.069" transform="translate(182.445 159.585)" fill="#3fc8c9"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="144.343" height="8.069" transform="translate(73.516 0)" fill="#3fc8c9"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="63.206" height="8.069" transform="translate(3.139 203.514)" fill="#002938"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="132.687" height="8.069" transform="translate(80.691 203.514)" fill="#002938"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="8.069" height="195.446" transform="translate(76.657 16.138)" fill="#002938"/>
+      <path id="Path_1" data-name="Path 1" d="M232.05,132.878l7.219,7.218v-94H231.2v86.088A6.985,6.985,0,0,1,232.05,132.878Z" transform="translate(-31.269 -29.955)" fill="#002938"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="127.308" height="8.069" transform="translate(80.691 16.138)" fill="#002938"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="66.342" height="8.069" transform="translate(220.552 69.93)" fill="#002938"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="62.756" height="8.069" transform="translate(224.138 203.514)" fill="#002938"/>
+      <path id="Path_2" data-name="Path 2" d="M310.425,99.885v87.569c4.736,2.36,4.736,10.263,0,12.623v41.461h8.307V99.885Z" transform="translate(-31.269 -29.955)" fill="#002938"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="8.069" height="86.295" transform="translate(117.898 121.237) rotate(0.298)" fill="#002938"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="51.103" height="8.069" transform="translate(121.929 121.033)" fill="#002938"/>
+      <path id="Path_3" data-name="Path 3" d="M205.4,177.292q1.54-1.981,2.963-4.07V150.988h-8.127v30.034h1.891C203.185,179.74,204.269,178.491,205.4,177.292Z" transform="translate(-31.269 -29.955)" fill="#002938"/>
+      <path id="Path_4" data-name="Path 4" d="M201.526,210.16h-1.26v24.207h8.068V216.473A46.269,46.269,0,0,0,201.526,210.16Z" transform="translate(-31.269 -29.955)" fill="#002938"/>
+      <path id="Path_5" data-name="Path 5" d="M232.735,225.023,203.1,193.41,232.9,165.1l5.559,5.85-23.992,22.791L238.626,219.5Z" transform="translate(-31.269 -29.955)" fill="#3fc8c9"/>
+      <line id="Line_1" data-name="Line 1" y2="59.669" transform="translate(144.71 40.002)" fill="none" stroke="#002938" stroke-miterlimit="10" stroke-width="9"/>
+      <line id="Line_2" data-name="Line 2" x2="58.585" transform="translate(114.49 68.744)" fill="none" stroke="#002938" stroke-miterlimit="10" stroke-width="9"/>
+    </g>
+  </g>
+</svg>

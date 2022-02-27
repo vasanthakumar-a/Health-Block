@@ -1,0 +1,92 @@
+{
+  "Header": {
+    "title": "Health Block",
+    "head": "Create your own Digital Health Block",
+    "paragraph": "Health Block - Key to your digital healthcare journey."
+  },
+  "About": {
+    "paragraph": "We focus on the data security, to make the patients information easy to access by doctors and insurance companies for verifications in a secure way without any data theft.",
+    "Why": [
+      "These requirements paved way to go for blockchain technology.",
+      "We also make it simple to use with our user friendly environment.",
+      "People get their unique ID to store their medical records then they have the power to access and share their details."
+    ]
+    
+  },
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "Vasanthakumar A",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.png",
+      "name": "Kabilan V",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.png",
+      "name": "Jeyasri A",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.png",
+      "name": "Ragashanmugam R G",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Coimbatore, Tamil Nadu, India ",
+    "phone": "+91 123 456 7890",
+    "email": "runtimeterrorist@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "signup": {
+    "active":true,
+    "user": "user"
+  },
+  "signin": {
+    "active":false,
+    "user": "user"
+  },
+  "hospitalSignup": {
+    "active":true,
+    "user": "hospital"
+  },
+  "hospitalSignin": {
+    "active":false,
+    "user": "hospital"
+  },
+  "Form": {
+    "signup": "Get Started with us today! Create your account",
+    "login": "Great day! Login to your account"
+  },
+  "Features": [
+    {
+      "img": "./img/new/Icon_01.svg",
+      "icon": "fa fa-comments-o",
+      "title": "Digital Health Records",
+      "text": "Access your information right from admission to treatment and discharge in a paperless manner"
+    },
+    {
+      "img": "./img/new/Icon_03.svg",
+      "icon": "fa fa-bullhorn",
+      "title": "Personal Health Records (PHR)",
+      "text": "Access and link your Personal Health Records (PHR) with Health ID to create longitudinal health history."
+    },
+    {
+      "img": "./img/new/Icon_02.svg",
+      "icon": "fa fa-group",
+      "title": "Easy sign up",
+      "text": "Create your Health ID using only your basic information alongwith Mobile Number, or Aadhaar."
+    },
+    {
+      "img": "./img/new/Icon_01.svg",
+      "icon": "fa fa-magic",
+      "title": "Secure and Private",
+      "text": "Built with robust security and encryption mechanisms and no information is shared without your consent."
+    }
+  ]
+}
